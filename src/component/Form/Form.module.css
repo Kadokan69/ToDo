@@ -1,0 +1,7 @@
+.input {
+  padding: 10px 5px 10px 45px;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg version='1.1' id='Capa_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 49.656 49.656' style='enable-background:new 0 0 49.656 49.656;' xml:space='preserve'%3e%3cg%3e%3cpolygon style='fill: rgb(230, 230, 230);' points='1.414,14.535 4.242,11.707 24.828,32.292 45.414,11.707 48.242,14.535 24.828,37.95 ' fill='%2300AD97'%3e%3c/polygon%3e%3cpath style='fill: rgb(230, 230, 230);' d='M24.828,39.364L0,14.536l4.242-4.242l20.586,20.585l20.586-20.586l4.242,4.242L24.828,39.364z M2.828,14.536l22,22l22-22.001l-1.414-1.414L24.828,33.707L4.242,13.122L2.828,14.536z' fill='%2300AD97'%3e%3c/path%3e%3c/g%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-size: 15px;
+  background-position: 15px;
+}

@@ -1,0 +1,15 @@
+
+.filter * button {
+  border: 1px solid transparent;
+  background: transparent;
+  padding: 4px 4px;
+  border-radius: 5px;
+}
+button.active{
+    border-color: #ebd7d7;
+}
+
+.filter * button:hover{
+    border-color: #ebd7d7;
+    transition: 500ms;
+}
